@@ -6,7 +6,7 @@ public class Test1 {
 		// TODO Auto-generated method stub
 		Test1 ar  = new Test1();
 		Integer[] array1 = {105 ,90 ,1, 1, 0, 90, 37, 1, 37, 37, 42};
-	
+	 
 		ar.freqOfElements(array1);
 
 	}
