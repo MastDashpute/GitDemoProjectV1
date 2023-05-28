@@ -5,7 +5,7 @@ public class Test2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Test2 ar  = new Test2();
-		Integer[] array1 = {105 ,90 ,1, 1, 0, 90, 37, 1, 37, 37, 42};
+		Integer[] array1 = {105 ,90 ,1, 1, 0, 90, 37, 1, 37, 37, 42, 49, 94};
 	 
 		ar.freqOfElements(array1);
 
